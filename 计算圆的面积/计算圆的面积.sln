@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "计算圆的面积", "计算圆的面积\计算圆的面积.vcxproj", "{ADF65585-C50A-4917-B0AF-AB4B3052B210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADF65585-C50A-4917-B0AF-AB4B3052B210}.Debug|x64.ActiveCfg = Debug|x64
+		{ADF65585-C50A-4917-B0AF-AB4B3052B210}.Debug|x64.Build.0 = Debug|x64
+		{ADF65585-C50A-4917-B0AF-AB4B3052B210}.Debug|x86.ActiveCfg = Debug|Win32
+		{ADF65585-C50A-4917-B0AF-AB4B3052B210}.Debug|x86.Build.0 = Debug|Win32
+		{ADF65585-C50A-4917-B0AF-AB4B3052B210}.Release|x64.ActiveCfg = Release|x64
+		{ADF65585-C50A-4917-B0AF-AB4B3052B210}.Release|x64.Build.0 = Release|x64
+		{ADF65585-C50A-4917-B0AF-AB4B3052B210}.Release|x86.ActiveCfg = Release|Win32
+		{ADF65585-C50A-4917-B0AF-AB4B3052B210}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40253EDC-F354-411F-9E53-B4822E644BE8}
+	EndGlobalSection
+EndGlobal
