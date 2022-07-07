@@ -1,0 +1,4 @@
+﻿  AddressList.c
+D:\c语言练习\通讯录\通讯录\AddressList.c(55,7): warning C4101: “arr”: 未引用的局部变量
+D:\c语言练习\通讯录\通讯录\AddressList.c(108): warning C4715: “Seek”: 不是所有的控件路径都返回值
+  通讯录.vcxproj -> D:\c语言练习\通讯录\x64\Debug\通讯录.exe
